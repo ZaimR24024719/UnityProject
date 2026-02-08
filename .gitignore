@@ -17,3 +17,9 @@
 *.opendb
 *.VC.db
 *.pidb.meta
+Assets/BOKI/LowPolyNature/Terrain/data/*.asset
+Assets/BOKI/LowPolyNature/Terrain/data/TerrainData_f3b311aa-fb5e-44f1-9205-35ded49ebf8e.asset
+Assets/BOKI/LowPolyNature/Terrain/data/TerrainData_94af5121-773a-40b5-aa63-37348ff8a20d.asset
+Assets/BOKI/LowPolyNature/Terrain/data/New Terrain 2.asset
+Assets/BOKI/LowPolyNature/Terrain/data/New Terrain 1.asset
+ Assets/BOKI/LowPolyNature/Terrain/data/TerrainData_b09a39ec-a1c6-4efd-9c1a-b5125166e147.asset
