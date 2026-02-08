@@ -54,8 +54,10 @@
     <Compile Include="Assets\_Barking_Dog\Common Scripts\Turn_Move.cs" />
     <Compile Include="Assets\BOKI\LowPolyNature\Scripts\SimpleCameraController.cs" />
     <Compile Include="Assets\BoulderTrigger.cs" />
+    <Compile Include="Assets\playerstep.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Compile Include="Assets\RollingBoulder.cs" />
+    <Compile Include="Assets\BoulderAudio.cs" />
     <Compile Include="Assets\BOKI\LowPolyNature\Scripts\WaterfallAudio.cs" />
     <Compile Include="Assets\FirstPerson.cs" />
   </ItemGroup>
